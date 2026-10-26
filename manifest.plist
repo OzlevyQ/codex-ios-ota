@@ -2,5 +2,5 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0"><dict><key>items</key><array><dict>
 <key>assets</key><array><dict><key>kind</key><string>software-package</string><key>url</key><string>https://mymacs-macbook-air.tailf088b4.ts.net:8444/Codex.ipa</string></dict></array>
-<key>metadata</key><dict><key>bundle-identifier</key><string>dev.oz.codexios</string><key>bundle-version</key><string>5</string><key>kind</key><string>software</string><key>title</key><string>Codex iOS</string></dict>
+<key>metadata</key><dict><key>bundle-identifier</key><string>dev.oz.codexios</string><key>bundle-version</key><string>6</string><key>kind</key><string>software</string><key>title</key><string>Codex iOS</string></dict>
 </dict></array></dict></plist>

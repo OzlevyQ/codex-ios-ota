@@ -1,1 +1,1 @@
-{"build":5,"notes":"Fix: opening a chat from history now loads its messages"}
+{"build":6,"notes":"Fix: chats that cannot be restored are cleaned up instead of showing an error"}
